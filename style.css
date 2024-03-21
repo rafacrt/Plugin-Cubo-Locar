@@ -12,14 +12,20 @@
   /*   height:100%; */
   border-radius: 10px;
   margin-bottom: inherit;
-  -webkit-box-shadow: 5px 5px 5px -5px rgba(0, 0, 0, 0.41);
-  -moz-box-shadow: 5px 5px 5px -5px rgba(0, 0, 0, 0.41);
-  box-shadow: 10px 5px 5px 5px -5px rgba(0, 0, 0, 0.41);
-	margin-bottom: 15px;
+  -webkit-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
+	margin-bottom: 75px;	
+	width: fit-content;
 }
 
 .card-body2{
-  padding: 0.6rem!important;
+  padding: 0px 20px 0 20px!important;
+}
+
+.card{
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+    width: fit-content;
 }
 
 #left_table {
@@ -119,26 +125,26 @@
 
 #hs-c {
   position: absolute;
-  top: 44%;
-  left: 33%;
+  top: 68%;
+  left: 25%;
 }
 
 #hs-d {
   position: absolute;
-  top: 76%;
-  left: 25%;
+  top: 11%;
+  left: 58%;
 }
 
 #hs-e {
   position: absolute;
-  top: 71%;
-  left: 13%;
+  top: 52%;
+  left: 98%;
 }
 
 #hs-f {
   position: absolute;
-  top: 88%;
-  left: 37%;
+  top: 65%;
+  left: 87%;
 }
 
 #hs-g {
@@ -173,7 +179,7 @@
 
 #hs-l {
   position: absolute;
-  top: 81%;
+  top: 78%;
   left: 78%;
 }
 
@@ -206,7 +212,7 @@
   color: white;
   font-weight: bold;
   font-size: 12px;
-  background-color: #d32f2f;
+  background-color: #000;
   display: block;
   height: 10px;
   width: 10px;
@@ -247,13 +253,13 @@ path {
 
 .bullet_point {
   z-index: 100;
-  background: red;
+  background: #000;
   width: 1rem;
   height: 1rem;
   border-radius: 50%;
   display: inline-block;
   line-height: 2.5rem;
-  color: red;
+  color: #000;
   text-align: center;
   border: 1px solid black;
   border-radius: 50%;

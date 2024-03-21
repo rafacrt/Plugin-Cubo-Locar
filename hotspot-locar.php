@@ -36,18 +36,18 @@ function hotspotlocar_shortcode() {
             <svg id="svg1" width="50px" height="150%" style="min-height: 100%;">
                 <!--       <image href="https://image-cdn.essentiallysports.com/wp-content/uploads/20200330230933/MJORDAN-768x766.jpg" x="33.33333333333%" y="0" height="100%" width="43.66666666%" /> -->
 
-                <path class="path" id="path1" d="M0 0" stroke="red" fill="none" stroke-width="1.5px" ; />
-                <path class="path" id="path2" d="M0 0" stroke="red" fill="none" stroke-width="1.5px" ; />
-                <path class="path" id="path3" d="M0 0" stroke="red" stroke-width="1.5px" style="fill:none;" />
-                <path class="path" id="path4" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none; " />
-                <path class="path" id="path5" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none;" />
-                <path class="path" id="path6" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none;" />
-                <path class="path" id="path7" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none;" />
-                <path class="path" id="path8" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none;" />
-                <path class="path" id="path9" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none;" />
-                <path class="path" id="path10" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none;" />
-                <path class="path" id="path11" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none;" />
-                <path class="path" id="path12" d="M0 0" stroke-width="1.5px" style="stroke:red; fill:none;" />
+                <path class="path" id="path1" d="M0 0" stroke="#ccc" fill="none" stroke-width="1.5px" ; />
+                <path class="path" id="path2" d="M0 0" stroke="#ccc" fill="none" stroke-width="1.5px" ; />
+                <path class="path" id="path3" d="M0 0" stroke="#ccc" stroke-width="1.5px" style="fill:none;" />
+                <path class="path" id="path4" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none; " />
+                <path class="path" id="path5" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none;" />
+                <path class="path" id="path6" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none;" />
+                <path class="path" id="path7" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none;" />
+                <path class="path" id="path8" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none;" />
+                <path class="path" id="path9" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none;" />
+                <path class="path" id="path10" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none;" />
+                <path class="path" id="path11" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none;" />
+                <path class="path" id="path12" d="M0 0" stroke-width="1.5px" style="stroke:#ccc; fill:none;" />
             </svg>
         </div>
         <!-- ********* LEFT TABLE *********** -->
@@ -63,7 +63,7 @@ function hotspotlocar_shortcode() {
                         </div>
                         <div class="card-body2">
                             <p>
-                                Equipe de engenharia com amplo conhecimento e experiência
+                                Grande variedade de frotas para atender uma grande diversidade de projetos.
                             </p>
                         </div>
                     </div>
@@ -77,7 +77,7 @@ function hotspotlocar_shortcode() {
                         </div>
                         <div class="card-body2">
                             <p>
-                                Multimodalidade
+                                Capilaridade.
                             </p>
                         </div>
                     </div>
@@ -91,55 +91,12 @@ function hotspotlocar_shortcode() {
                         </div>
                         <div class="card-body2">
                             <p>
-                                Diversidade de serviços espalhados pelo país
+                                Multimodalidade
                             </p>
                         </div>
                     </div>
                 </li>
-                <li class="lista-h" id="list_item_4">
-                    <div class="card">
-                        <div class=row>
-                            <div class="bullet_point" id="bullet_point4" data-target="#hs-d" data-path="#path4"
-                                data-list="#list_item_4"></div>
-                            <!-- <div class="card-header">Seamless Upgrade to Root®</div> -->
-                        </div>
-                        <div class="card-body2">
-                            <p>
-                                Equipamentos e profissionais que acompanham sua obra
-                            </p>
-                        </div>
-                    </div>
-                </li>
-                <li class="lista-h" id="list_item_5">
-                    <div class="card">
-                        <div class=row>
-                            <div class="bullet_point" id="bullet_point5" data-target="#hs-e" data-path="#path5"
-                                data-list="#list_item_5"></div>
-                            <!--           <div class="bullet_point" id="bullet_point1" data-target="#hs-a" data-path="#path1" data-list="#list_item_1"></div> -->
-                            <!-- <div class="card-header">Rechargeable Battery<span id='coord'></span></div> -->
-                        </div>
-                        <div class="card-body2">
-                            <p>
-                                Solução e eficácia para seus projetos
-                            </p>
-                        </div>
-                    </div>
-                </li>
-                <li class="lista-h" id="list_item_6">
-                    <div class="card">
-                        <div class=row>
-                            <div class="bullet_point" id="bullet_point6" data-target="#hs-f" data-path="#path6"
-                                data-list="#list_item_6"></div>
-                            <!--           <div class="bullet_point" id="bullet_point1" data-target="#hs-a" data-path="#path1" data-list="#list_item_1"></div> -->
-                            <!-- <div class="card-header">Rechargeable Battery<span id='coord'></span></div> -->
-                        </div>
-                        <div class="card-body2">
-                            <p>
-                                Solidez financeira
-                            </p>
-                        </div>
-                    </div>
-                </li>
+                
             </ul>
         </div>
         <!-- *********** PICTURE ************ -->
@@ -152,12 +109,12 @@ function hotspotlocar_shortcode() {
                 <input type="checkbox" class="input-hot" id="input4" name="inputs">
                 <input type="checkbox" class="input-hot" id="input5" name="inputs">
                 <input type="checkbox" class="input-hot" id="input6" name="inputs">
-                <input type="checkbox" class="input-hot" id="input7" name="inputs">
+               <!-- <input type="checkbox" class="input-hot" id="input7" name="inputs">
                 <input type="checkbox" class="input-hot" id="input8" name="inputs">
                 <input type="checkbox" class="input-hot" id="input9" name="inputs">
                 <input type="checkbox" class="input-hot" id="input10" name="inputs">
                 <input type="checkbox" class="input-hot" id="input11" name="inputs">
-                <input type="checkbox" class="input-hot" id="input12" name="inputs">
+                <input type="checkbox" class="input-hot" id="input12" name="inputs"> -->
 
                 <label for="input1">
                     <div id="hs-a" class="button" data-target="#bullet_point1" data-path="#path1" data-list="#list_item_1">
@@ -185,7 +142,7 @@ function hotspotlocar_shortcode() {
                     </div>
                 </label>
 
-                <label for="input7">
+                <!--<label for="input7">
                     <div id="hs-g" class="button" data-target="#bullet_point7" data-path="#path7" data-list="#list_item_7">
                     </div>
                 </label>
@@ -216,7 +173,7 @@ function hotspotlocar_shortcode() {
                     <div id="hs-l" class="button" data-target="#bullet_point12" data-path="#path12"
                         data-list="#list_item_12">
                     </div>
-                </label>
+                </label>-->
 
                 <!--           <div href="#" class="hotspot" id="hs-a"></div> -->
                 <!--           <div href="#" class="hotspot" id="hs-b">B</div>
@@ -227,93 +184,51 @@ function hotspotlocar_shortcode() {
         <!-- *********** RIGHT TABLE ************  -->
         <div class="col-4">
             <ul id="rightList">
-                <li class="lista-h" id="list_item_7">
-                    <div class="card">
-                        <div class='row'>
-                            <div class="bullet_point" id="bullet_point7" data-target="#hs-g" data-path="#path7"
-                                data-list="#list_item_7"></div>
-                            <!-- <div class="card-header">Electronic Charting</div> -->
-                        </div>
-                        <div class="card-body2">
-                            <p>
-                                Equipamentos modernos e alta disponibilidade nos atendimentos para garantir produtividade
-                                aos clientes.
-                            </p>
-                        </div>
-                    </div>
-                </li>
-                <li class="lista-h" id="list_item_8">
+                <li class="lista-h" id="list_item_4">
                     <div class="card">
                         <div class=row>
-                            <div class="bullet_point" id='bullet_point8' data-target="#hs-h" data-path="#path8"
-                                data-list="#list_item_8"></div>
-                            <!-- <div class="card-header">Plethysmographic Waveform</div> -->
+                            <div class="bullet_point" id="bullet_point4" data-target="#hs-d" data-path="#path4"
+                                data-list="#list_item_4"></div>
+                            <!-- <div class="card-header">Seamless Upgrade to Root®</div> -->
                         </div>
                         <div class="card-body2">
                             <p>
-                                Segmentos integrados em uma solução inteligente.
+                                Equipamentos modernos e alta disponibilidade nos atendimentos para garantir produtividade aos clientes.
                             </p>
                         </div>
                     </div>
                 </li>
-                <li class="lista-h" id="list_item_9">
+                <li class="lista-h" id="list_item_5">
                     <div class="card">
                         <div class=row>
-                            <div class="bullet_point" id='bullet_point9' data-target="#hs-i" data-path="#path9"
-                                data-list="#list_item_9"></div>
-                            <!-- <div class="card-header">Automatic Display Rotation</div> -->
+                            <div class="bullet_point" id="bullet_point5" data-target="#hs-e" data-path="#path5"
+                                data-list="#list_item_5"></div>
+                            <!--           <div class="bullet_point" id="bullet_point1" data-target="#hs-a" data-path="#path1" data-list="#list_item_1"></div> -->
+                            <!-- <div class="card-header">Rechargeable Battery<span id='coord'></span></div> -->
                         </div>
                         <div class="card-body2">
                             <p>
-                                Capilaridade.
+                                Equipes treinadas e capacitadas em prol de um único objetivo: foco total no cliente com segurança, agilidade, simplicidade e prazer em atender.
                             </p>
                         </div>
                     </div>
                 </li>
-                <li class="lista-h" id="list_item_10">
+                <li class="lista-h" id="list_item_6">
                     <div class="card">
                         <div class=row>
-                            <div class="bullet_point" id='bullet_point10' data-target="#hs-j" data-path="#path10"
-                                data-list="#list_item_10"></div>
-                            <!-- <div class="card-header">Automatic Display Rotation</div> -->
+                            <div class="bullet_point" id="bullet_point6" data-target="#hs-f" data-path="#path6"
+                                data-list="#list_item_6"></div>
+                            <!--           <div class="bullet_point" id="bullet_point1" data-target="#hs-a" data-path="#path1" data-list="#list_item_1"></div> -->
+                            <!-- <div class="card-header">Rechargeable Battery<span id='coord'></span></div> -->
                         </div>
                         <div class="card-body2">
                             <p>
-                                Excelência em solidez e gestão de todos os departamentos.
+                                Solidez financeira
                             </p>
                         </div>
                     </div>
                 </li>
-                <li class="lista-h" id="list_item_11">
-                    <div class="card">
-                        <div class=row>
-                            <div class="bullet_point" id='bullet_point11' data-target="#hs-k" data-path="#path11"
-                                data-list="#list_item_11"></div>
-                            <!-- <div class="card-header">Automatic Display Rotation</div> -->
-                        </div>
-                        <div class="card-body2">
-                            <p>
-                                Grande variedade de frotas para atender uma grande diversidade de projetos.
-                            </p>
-                        </div>
-                    </div>
-                </li>
-                <li class="lista-h" id="list_item_12">
-                    <div class="card">
-                        <div class=row>
-                            <div class="bullet_point" id='bullet_point12' data-target="#hs-l" data-path="#path12"
-                                data-list="#list_item_12"></div>
-                            <!-- <div class="card-header">Automatic Display Rotation</div> -->
-                        </div>
-                        <div class="card-body2">
-                            <p>
-                                Equipes treinadas e capacitadas em prol de um único objetivo: foco total no cliente com
-                                segurança,
-                                agilidade, simplicidade e prazer em atender.
-                            </p>
-                        </div>
-                    </div>
-                </li>
+                
             </ul>
         </div>
 
